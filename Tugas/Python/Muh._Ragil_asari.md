@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Nama Lengkap** | (Muhammad Ragil Asari) |
 | **Gugus** | (Python) |
-| **Akun GitHub** | https://github.com/muhammad-Ragil-Asari |
+| **Akun GitHub** | https://github.com/Muhammad-Ragil-Asari |
 | **Akun Instagram** | @mhmdgeloo |
 | **Profil LinkedIn** | https://www.linkedin.com/in/muhammad-ragil-asari-26a78443b?utm_source=share_via&utm_content=profile&utm_medium=member_android |
 
